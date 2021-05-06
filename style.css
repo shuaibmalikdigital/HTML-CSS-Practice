@@ -1,0 +1,29 @@
+H1 {
+    color: darkgreen;
+    background-color: beige;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+p {
+    color: dodgerblue;
+    text-align: justify;
+    column-count: 2;
+    column-gap: 100px;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+
+ul{
+    /*border-width: 5px;
+    border-style: ridge;
+    border-color: crimson;*/
+    border:5px ridge crimson;
+    border-left: 6px double cornflowerblue;    
+}
+
+li{
+    list-style-type: upper-roman;
+    text-shadow: 2px 2px #c5fcfc;
+}
